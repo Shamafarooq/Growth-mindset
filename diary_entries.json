@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Daily Routine",
+        "content": "Xyz",
+        "date": "2025-02-22 00:11",
+        "mood": "Neutral",
+        "image": "Weather2.PNG",
+        "todo_list": [
+            "writing"
+        ]
+    },
+    {
+        "title": "Daily routine",
+        "content": "XYZ",
+        "date": "2025-02-22 00:12",
+        "mood": "Neutral",
+        "image": "Weather2.PNG",
+        "todo_list": [
+            "Writing"
+        ]
+    }
+]
