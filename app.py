@@ -168,4 +168,4 @@ if selected_entry:
 
 # Footer with your name
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown('<div class="footer">💖 Developed by Ayesha Farooq 💖</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">💖 Developed by Shama Farooq 💖</div>', unsafe_allow_html=True)
